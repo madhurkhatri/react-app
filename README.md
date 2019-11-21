@@ -1,2 +1,2 @@
 # react-app
-a react todo list
+a react todo app
